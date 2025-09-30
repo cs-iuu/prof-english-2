@@ -1,2 +1,4 @@
-# prof-english-2
-Repo for Professional English 2
+# Heading 1
+## Heading 2
+
+$$ x = a + b_y $$
